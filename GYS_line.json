@@ -6,7 +6,8 @@
     "data": {"url": "https://raw.githubusercontent.com/hngg0023/3179-HW3/main/Global_YouTube_Statistics.csv"},
     "mark": {
       "type": "line",
-      "point": true
+      "point": true,
+        "tooltip": true
     },
     "encoding": {
       "x": {"field": "channel_type", "type": "nominal"},
